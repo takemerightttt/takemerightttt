@@ -1,10 +1,8 @@
 ### - Hello There 👋
 ### - General Kenobi !
 
-<div style="display: flex; align-items: center;">
-	![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
-	![General Kenobi !](https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif)
-</div>
+![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+![General Kenobi !](https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif)
 
 - 💻 I'm React developer, my stack is React / Next.js
 - 
