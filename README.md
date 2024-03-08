@@ -1,17 +1,19 @@
-### Hello There 👋
+### - Hello There 👋
+### - General Kenobi!
 
 - 💻 I'm React developer, my stack is React / Next.js
+- 
 
 <div align="justify">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/takemeright">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+	<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 </div>
 
-## My technologies
+## My favourite technologies
 
 <table>
   <tr>
