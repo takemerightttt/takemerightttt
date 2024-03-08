@@ -2,8 +2,8 @@
 ### - General Kenobi !
 
 <div style="display: flex; align-items: center; justily-content: space-between;">
-	<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="480" height="270" alt="описание">
-	<img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="480" height="270" alt="описание">
+	<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="240" height="135" alt="описание">
+	<img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="240" height="135" alt="описание">
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
