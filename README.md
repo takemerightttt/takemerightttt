@@ -1,7 +1,12 @@
 ### - Hello There 👋
 ### - General Kenobi !
 
-![General Kenobi](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+<iframe src="https://giphy.com/embed/8JTFsZmnTR1Rs1JFVP" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8JTFsZmnTR1Rs1JFVP">via GIPHY</a></p>
+
+<div style="display: flex; align-items: center; ji">
+	![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+	![General Kenobi !](https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif)
+</div>
 
 - 💻 I'm React developer, my stack is React / Next.js
 - 
