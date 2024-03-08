@@ -1,6 +1,9 @@
 ### - Hello There 👋
 ### - General Kenobi !
 
+<img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="480" height="270" alt="описание">
+
+
 ![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 ![General Kenobi !](https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif)
 
