@@ -1,5 +1,5 @@
 ### - Hello There 👋
-### - General Kenobi!
+### - General Kenobi !
 
 - 💻 I'm React developer, my stack is React / Next.js
 - 
