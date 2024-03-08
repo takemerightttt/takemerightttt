@@ -6,6 +6,7 @@
 	<img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="480" height="270" alt="описание">
 </div>
 
+<div></div>
 - 💻 I'm React developer, my stack is React / Next.js
 - 
 
