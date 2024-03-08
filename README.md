@@ -8,7 +8,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - 💻 I'm React developer, my stack is React / Next.js, and also write in React Native
-- 
+- 🧑‍💻 I'm interesting IT, and how it transform business
+- 🔥 I've been interested in Star Wars for 16 years now
+- 🐈 I have a cat, his name is Arnold :)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="justify">
