@@ -7,7 +7,7 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- 💻 I'm React developer, my stack is React / Next.js
+- 💻 I'm React developer, my stack is React / Next.js, and also write in React Native
 - 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
