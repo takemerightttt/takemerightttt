@@ -1,13 +1,7 @@
 ### Hello There 👋
 
-- 🔭 I'm React developer, my stack is React / Next.js
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 I'm React developer, my stack is React / Next.js
+- 
 
 ## My favorite tools and technologies ⚙️
 
@@ -15,6 +9,27 @@
 
 <table>
   <tr>
+    <td style="display: flex; align-items: flex-start;">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="64" height="64" />
+  </td>
+  <td style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="64" height="64" />
+  </td>
+    <td style="display: flex; align-items: flex-start;">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="64" height="64" />
+  </td>
+    <td style="display: flex; align-items: flex-start;">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="64" height="64" />
+  </td>
+    <td style="display: flex; align-items: flex-start;">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="64" height="64" />
+  </td>
+    <td style="display: flex; align-items: flex-start;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" />
+  </td>
+    <td style="display: flex; align-items: flex-start;">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="64" height="64" />
+  </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
