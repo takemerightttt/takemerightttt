@@ -209,9 +209,12 @@ def card(key: str, name: str, desc: str, url: str, status: str, color: str) -> s
     lines.append(cur)
     desc_svg = "".join(f'<text x="20" y="{64 + i * 17}" class="d">{esc(l)}</text>' for i, l in enumerate(lines[:3]))
     sw = len(status) * 7 + 26
+    # The accent bar is clipped by the card's rounded outline, otherwise its
+    # square corners poke out of the radius (Ivan's dark-mode screenshot, 11.09).
     body = f"""
+    <defs><clipPath id="c{key}"><rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="6"/></clipPath></defs>
     <rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="6" fill="{SURFACE}" stroke="{LINE}"/>
-    <rect x="0.5" y="0.5" width="4" height="{h - 1}" fill="{PRIMARY}"/>
+    <rect x="0" y="0" width="5" height="{h}" fill="{PRIMARY}" clip-path="url(#c{key})"/>
     <text x="20" y="36" class="n">{esc(name)}</text>
     <g transform="translate({w - sw - 16},20)">
       <rect x="0.5" y="0.5" width="{sw - 1}" height="23" rx="12" fill="{SURFACE2}" stroke="{LINE}"/>
