@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="156" viewBox="0 0 384 156" font-family="'Golos Text','Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<style>
+    .n { font-size: 18px; font-weight: 700; fill: #0F1516; letter-spacing: -0.01em; }
+    .d { font-size: 12.5px; fill: #869294; }
+    .u { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace; font-size: 12px; fill: #0369A1; }
+    .s { font-size: 11px; font-weight: 500; fill: #0F1516; }
+    </style>
+
+    <rect x="0.5" y="0.5" width="383" height="155" rx="6" fill="#FFFFFF" stroke="#DCE3E4"/>
+    <rect x="0.5" y="0.5" width="4" height="155" fill="#0369A1"/>
+    <text x="20" y="36" class="n">@ivan_kulyaev</text>
+    <g transform="translate(293,20)">
+      <rect x="0.5" y="0.5" width="74" height="23" rx="12" fill="#EDF3F4" stroke="#DCE3E4"/>
+      <circle cx="12" cy="12" r="3.5" fill="#D97706"/>
+      <text x="21" y="16" class="s">posting</text>
+    </g>
+    <text x="20" y="64" class="d">Telegram channel: frontend, career moves,</text><text x="20" y="81" class="d">relocation, building products with AI agents. In</text><text x="20" y="98" class="d">Russian.</text>
+    <text x="20" y="138" class="u">↗ t.me/ivan_kulyaev</text>
+    
+</svg>

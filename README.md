@@ -1,66 +1,32 @@
-### - Hello There 👋
-### - General Kenobi !
+<img src="assets/banner.svg" width="100%" alt="Hello There - General Kenobi! Ivan Kulyaev, Senior Software Engineer - React / Next.js / TypeScript / Node.js / NestJS / Express">
 
-<div style="display: flex; align-items: center; justily-content: space-between;">
-	<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300" height="175" alt="описание">
-	<img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="300" height="175" alt="описание">
-</div>
+<img src="assets/hello-there.gif" width="100%" alt="Obi-Wan: Hello there. General Grievous: General Kenobi!">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- 💻 I'm React developer, my stack is React / Next.js, and also write in React Native
-- 🧑‍💻 I'm interesting IT, and how it transform business
-- 🔥 I've been interested in Star Wars for 17 years now
-- 🐈 I have two cats, one is Arnold, the other is Sebastian. :)
+<img src="assets/tiles.svg" width="100%" alt="5.5 years in dev, 6 live products, TypeScript + Node, 2 cats, Star Wars fan for 18 years">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/takemeright">
-	<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-</div>
+- 💻 I write React / Next.js / TypeScript on the front and Node.js / NestJS / Express behind it
+- 🧑‍💻 Interested in IT and how it transforms a business - so I ship whole products, not just screens
+- 🔥 A Star Wars fan for 18 years (hence the greeting)
+- 🐈 Two cats: Arnold and Sebastian
 
-## My favourite technologies
+## What I build
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    <br>JavaScript
-  </td>
-  <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-  </td>
-  <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      <br>Redux
-  </td>
-  <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-  </td>
-  <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-  </td>
-  <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
-      <br>GitLab
-  </td>
-  <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-      <br>Postman
-  </td>
-  <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-      <br>Linux
-  </td>
+    <td width="33%"><a href="https://sumlify.pro"><img src="assets/card-sumlify-web.svg" width="100%" alt="Sumlify web - sumlify.pro"></a></td>
+    <td width="33%"><a href="https://t.me/sumlify_bot"><img src="assets/card-sumlify-bot.svg" width="100%" alt="@sumlify_bot - the Telegram bot"></a></td>
+    <td width="33%"><a href="https://t.me/ivan_kulyaev"><img src="assets/card-channel.svg" width="100%" alt="@ivan_kulyaev - Telegram channel"></a></td>
   </tr>
- <tr>
- </tr>
 </table>
+
+## Stack
+
+<img src="assets/stack.svg" width="100%" alt="TypeScript, JavaScript, React 18, Next.js, Redux Toolkit, RTK Query, Node.js, NestJS, Express, REST, GraphQL, PostgreSQL, TypeORM, Keycloak, Docker, CI/CD, nginx, Grafana, Feature-Sliced Design, e2e and unit tests, SQL, React Native">
+
+## Contact
+
+<a href="https://t.me/takemeright"><img src="https://img.shields.io/badge/Telegram-@takemeright-0369A1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @takemeright"></a>
+&nbsp;
+<a href="https://t.me/ivan_kulyaev"><img src="https://img.shields.io/badge/Channel-@ivan__kulyaev-0F1E24?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel @ivan_kulyaev"></a>
+
+**Telegram:** [@takemeright](https://t.me/takemeright) · **Channel:** [@ivan_kulyaev](https://t.me/ivan_kulyaev)

@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" font-family="'Golos Text','Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<style>
+    .t { font-size: 13px; font-weight: 500; fill: #0F1516; }
+    .track { animation: slide 69s linear infinite; }
+    svg:hover .track { animation-play-state: paused; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-2784px); } }
+    </style>
+
+    <defs><linearGradient id="fl" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="fr" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient></defs><g class="track">
+        <g transform="translate(0,0)">
+          <rect x="0.5" y="0.5" width="117" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0284C7"/>
+          <text x="30" y="23.0" class="t">TypeScript</text>
+        </g>
+        <g transform="translate(130,0)">
+          <rect x="0.5" y="0.5" width="117" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#F59E0B"/>
+          <text x="30" y="23.0" class="t">JavaScript</text>
+        </g>
+        <g transform="translate(260,0)">
+          <rect x="0.5" y="0.5" width="101" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0284C7"/>
+          <text x="30" y="23.0" class="t">React 18</text>
+        </g>
+        <g transform="translate(374,0)">
+          <rect x="0.5" y="0.5" width="94" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0F1516"/>
+          <text x="30" y="23.0" class="t">Next.js</text>
+        </g>
+        <g transform="translate(481,0)">
+          <rect x="0.5" y="0.5" width="139" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#818CF8"/>
+          <text x="30" y="23.0" class="t">Redux Toolkit</text>
+        </g>
+        <g transform="translate(633,0)">
+          <rect x="0.5" y="0.5" width="109" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#818CF8"/>
+          <text x="30" y="23.0" class="t">RTK Query</text>
+        </g>
+        <g transform="translate(755,0)">
+          <rect x="0.5" y="0.5" width="94" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#10B981"/>
+          <text x="30" y="23.0" class="t">Node.js</text>
+        </g>
+        <g transform="translate(862,0)">
+          <rect x="0.5" y="0.5" width="86" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#F43F5E"/>
+          <text x="30" y="23.0" class="t">NestJS</text>
+        </g>
+        <g transform="translate(961,0)">
+          <rect x="0.5" y="0.5" width="94" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0F1516"/>
+          <text x="30" y="23.0" class="t">Express</text>
+        </g>
+        <g transform="translate(1068,0)">
+          <rect x="0.5" y="0.5" width="71" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#14B8A6"/>
+          <text x="30" y="23.0" class="t">REST</text>
+        </g>
+        <g transform="translate(1152,0)">
+          <rect x="0.5" y="0.5" width="94" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#F43F5E"/>
+          <text x="30" y="23.0" class="t">GraphQL</text>
+        </g>
+        <g transform="translate(1259,0)">
+          <rect x="0.5" y="0.5" width="117" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#818CF8"/>
+          <text x="30" y="23.0" class="t">PostgreSQL</text>
+        </g>
+        <g transform="translate(1389,0)">
+          <rect x="0.5" y="0.5" width="94" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#818CF8"/>
+          <text x="30" y="23.0" class="t">TypeORM</text>
+        </g>
+        <g transform="translate(1496,0)">
+          <rect x="0.5" y="0.5" width="223" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#F59E0B"/>
+          <text x="30" y="23.0" class="t">Keycloak · OAuth2 / OIDC</text>
+        </g>
+        <g transform="translate(1732,0)">
+          <rect x="0.5" y="0.5" width="86" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0284C7"/>
+          <text x="30" y="23.0" class="t">Docker</text>
+        </g>
+        <g transform="translate(1831,0)">
+          <rect x="0.5" y="0.5" width="79" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#14B8A6"/>
+          <text x="30" y="23.0" class="t">CI/CD</text>
+        </g>
+        <g transform="translate(1923,0)">
+          <rect x="0.5" y="0.5" width="79" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#10B981"/>
+          <text x="30" y="23.0" class="t">nginx</text>
+        </g>
+        <g transform="translate(2015,0)">
+          <rect x="0.5" y="0.5" width="147" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#F59E0B"/>
+          <text x="30" y="23.0" class="t">Grafana · Faro</text>
+        </g>
+        <g transform="translate(2175,0)">
+          <rect x="0.5" y="0.5" width="200" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0284C7"/>
+          <text x="30" y="23.0" class="t">Feature-Sliced Design</text>
+        </g>
+        <g transform="translate(2388,0)">
+          <rect x="0.5" y="0.5" width="162" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#14B8A6"/>
+          <text x="30" y="23.0" class="t">e2e · unit tests</text>
+        </g>
+        <g transform="translate(2563,0)">
+          <rect x="0.5" y="0.5" width="63" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#818CF8"/>
+          <text x="30" y="23.0" class="t">SQL</text>
+        </g>
+        <g transform="translate(2639,0)">
+          <rect x="0.5" y="0.5" width="132" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0284C7"/>
+          <text x="30" y="23.0" class="t">React Native</text>
+        </g>
+        <g transform="translate(2784,0)">
+          <rect x="0.5" y="0.5" width="117" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0284C7"/>
+          <text x="30" y="23.0" class="t">TypeScript</text>
+        </g>
+        <g transform="translate(2914,0)">
+          <rect x="0.5" y="0.5" width="117" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#F59E0B"/>
+          <text x="30" y="23.0" class="t">JavaScript</text>
+        </g>
+        <g transform="translate(3044,0)">
+          <rect x="0.5" y="0.5" width="101" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0284C7"/>
+          <text x="30" y="23.0" class="t">React 18</text>
+        </g>
+        <g transform="translate(3158,0)">
+          <rect x="0.5" y="0.5" width="94" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0F1516"/>
+          <text x="30" y="23.0" class="t">Next.js</text>
+        </g>
+        <g transform="translate(3265,0)">
+          <rect x="0.5" y="0.5" width="139" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#818CF8"/>
+          <text x="30" y="23.0" class="t">Redux Toolkit</text>
+        </g>
+        <g transform="translate(3417,0)">
+          <rect x="0.5" y="0.5" width="109" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#818CF8"/>
+          <text x="30" y="23.0" class="t">RTK Query</text>
+        </g>
+        <g transform="translate(3539,0)">
+          <rect x="0.5" y="0.5" width="94" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#10B981"/>
+          <text x="30" y="23.0" class="t">Node.js</text>
+        </g>
+        <g transform="translate(3646,0)">
+          <rect x="0.5" y="0.5" width="86" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#F43F5E"/>
+          <text x="30" y="23.0" class="t">NestJS</text>
+        </g>
+        <g transform="translate(3745,0)">
+          <rect x="0.5" y="0.5" width="94" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0F1516"/>
+          <text x="30" y="23.0" class="t">Express</text>
+        </g>
+        <g transform="translate(3852,0)">
+          <rect x="0.5" y="0.5" width="71" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#14B8A6"/>
+          <text x="30" y="23.0" class="t">REST</text>
+        </g>
+        <g transform="translate(3936,0)">
+          <rect x="0.5" y="0.5" width="94" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#F43F5E"/>
+          <text x="30" y="23.0" class="t">GraphQL</text>
+        </g>
+        <g transform="translate(4043,0)">
+          <rect x="0.5" y="0.5" width="117" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#818CF8"/>
+          <text x="30" y="23.0" class="t">PostgreSQL</text>
+        </g>
+        <g transform="translate(4173,0)">
+          <rect x="0.5" y="0.5" width="94" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#818CF8"/>
+          <text x="30" y="23.0" class="t">TypeORM</text>
+        </g>
+        <g transform="translate(4280,0)">
+          <rect x="0.5" y="0.5" width="223" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#F59E0B"/>
+          <text x="30" y="23.0" class="t">Keycloak · OAuth2 / OIDC</text>
+        </g>
+        <g transform="translate(4516,0)">
+          <rect x="0.5" y="0.5" width="86" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0284C7"/>
+          <text x="30" y="23.0" class="t">Docker</text>
+        </g>
+        <g transform="translate(4615,0)">
+          <rect x="0.5" y="0.5" width="79" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#14B8A6"/>
+          <text x="30" y="23.0" class="t">CI/CD</text>
+        </g>
+        <g transform="translate(4707,0)">
+          <rect x="0.5" y="0.5" width="79" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#10B981"/>
+          <text x="30" y="23.0" class="t">nginx</text>
+        </g>
+        <g transform="translate(4799,0)">
+          <rect x="0.5" y="0.5" width="147" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#F59E0B"/>
+          <text x="30" y="23.0" class="t">Grafana · Faro</text>
+        </g>
+        <g transform="translate(4959,0)">
+          <rect x="0.5" y="0.5" width="200" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0284C7"/>
+          <text x="30" y="23.0" class="t">Feature-Sliced Design</text>
+        </g>
+        <g transform="translate(5172,0)">
+          <rect x="0.5" y="0.5" width="162" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#14B8A6"/>
+          <text x="30" y="23.0" class="t">e2e · unit tests</text>
+        </g>
+        <g transform="translate(5347,0)">
+          <rect x="0.5" y="0.5" width="63" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#818CF8"/>
+          <text x="30" y="23.0" class="t">SQL</text>
+        </g>
+        <g transform="translate(5423,0)">
+          <rect x="0.5" y="0.5" width="132" height="35" rx="18.0" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <circle cx="17" cy="18.0" r="4" fill="#0284C7"/>
+          <text x="30" y="23.0" class="t">React Native</text>
+        </g></g><rect x="0" y="0" width="48" height="36" fill="url(#fl)" opacity=".9"/><rect x="1152" y="0" width="48" height="36" fill="url(#fr)" opacity=".9"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="118" viewBox="0 0 1200 118" font-family="'Golos Text','Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<style>
+    .l { font-size: 11px; font-weight: 600; letter-spacing: .06em; fill: #869294; text-transform: uppercase; }
+    .v { font-size: 28px; font-weight: 700; letter-spacing: -0.02em; }
+    .d { font-size: 12px; fill: #869294; }
+    </style>
+
+        <g transform="translate(0.0,0)">
+          <rect x="0.5" y="0.5" width="229.4" height="117" rx="6" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <text x="16" y="30" class="l">YEARS IN DEV</text>
+          <text x="16" y="70" class="v" fill="#0C4A6E">5.5</text>
+          <text x="16" y="96" class="d">since 2021</text>
+        </g>
+        <g transform="translate(242.4,0)">
+          <rect x="0.5" y="0.5" width="229.4" height="117" rx="6" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <text x="16" y="30" class="l">LIVE PRODUCTS</text>
+          <text x="16" y="70" class="v" fill="#0D9488">6</text>
+          <text x="16" y="96" class="d">bots · PWA · sites</text>
+        </g>
+        <g transform="translate(484.8,0)">
+          <rect x="0.5" y="0.5" width="229.4" height="117" rx="6" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <text x="16" y="30" class="l">STACK</text>
+          <text x="16" y="70" class="v" fill="#0F1516">TS · Node</text>
+          <text x="16" y="96" class="d">React / Next.js / NestJS</text>
+        </g>
+        <g transform="translate(727.2,0)">
+          <rect x="0.5" y="0.5" width="229.4" height="117" rx="6" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <text x="16" y="30" class="l">CATS</text>
+          <text x="16" y="70" class="v" fill="#0F1516">2</text>
+          <text x="16" y="96" class="d">Arnold &amp; Sebastian</text>
+        </g>
+        <g transform="translate(969.6,0)">
+          <rect x="0.5" y="0.5" width="229.4" height="117" rx="6" fill="#FFFFFF" stroke="#DCE3E4"/>
+          <text x="16" y="30" class="l">STAR WARS FAN</text>
+          <text x="16" y="70" class="v" fill="#D97706">18 yrs</text>
+          <text x="16" y="96" class="d">hence the greeting</text>
+        </g>
+</svg>
